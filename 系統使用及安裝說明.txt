@@ -1,0 +1,7 @@
+專案檔
+Unity版本：2021.1.7
+Visual Studio 2019
+專案中所使用的Unity Asset Store的物件：Quick Outline（免費）
+
+執行檔
+支援系統：Windows
